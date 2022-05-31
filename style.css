@@ -1,0 +1,29 @@
+/* stylesheet for index.html */
+
+body {
+
+    background-color: #d3d3d3;  
+}
+
+#header, .subtitle {
+    text-align: center;
+    font-family: Arial, Helvetica, "Times New Roman", sans-serif;
+    font-size: 40px;
+}
+
+.subtitle {
+    font-size: 30px;
+}
+
+img {
+    height: auto;
+    width: 300px;
+    
+}
+
+.class {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
