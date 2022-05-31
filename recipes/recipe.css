@@ -1,0 +1,46 @@
+/* recipe.css */
+
+body {
+    background-color: #d3d3d3;
+}
+
+#header {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+img {
+    height: auto;
+    width: 500px;
+    display: block;
+    margin: 0 auto;
+}
+
+#caption {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+
+#title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+  
+}
+
+#list {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+.supply {
+    text-align: center;
+    
+}
